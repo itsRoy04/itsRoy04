@@ -26,11 +26,6 @@ I specialize in blockchain development and have experience with various projects
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsRoy04&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsRoy04&theme=dark)](https://git.io/streak-stats)
-
-
 ## 📊 GitHub Analytics
 
 <p align="center">
