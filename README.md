@@ -44,7 +44,11 @@ I specialize in blockchain development and have experience with various projects
 
 ## 📈 Contribution Graph
 
-[![itsRoy04's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsRoy04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![itsRoy04's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsRoy04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📅 GitHub Contributions Calendar
+
+[![itsRoy04's github contribution calendar](https://github-contribution-graph.vercel.app/api?username=itsRoy04)](https://github.com/itsRoy04)
 
 ## 🏆 GitHub Trophies
 
