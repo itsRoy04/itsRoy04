@@ -22,6 +22,14 @@ I specialize in blockchain development and have experience with various projects
 - 🎰 Implemented a provably fair blockchain-based lottery system
 - 🏠 Designed and built IoT solutions for smart home devices
 
+
+## 📅 Contribution Activity
+
+<!-- Replace USERNAME with your GitHub username -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsRoy04&theme=radical)
+
+To see my full contribution calendar, check out my [GitHub profile](https://github.com/itsRoy04).
+
 ## 📈 GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsRoy04&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,12 +43,7 @@ I specialize in blockchain development and have experience with various projects
 
 
 
-## 📅 Contribution Activity
 
-<!-- Replace USERNAME with your GitHub username -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsRoy04&theme=radical)
-
-To see my full contribution calendar, check out my [GitHub profile](https://github.com/itsRoy04).
 
 ## 🏆 GitHub Trophies
 
