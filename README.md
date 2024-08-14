@@ -42,12 +42,6 @@ I specialize in blockchain development and have experience with various projects
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsRoy04&theme=algolia)](https://git.io/streak-stats)
 
-## 📊 My GitHub Contributions
-
-<!-- Replace USERNAME with your GitHub username -->
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=itsRoy04&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
-
-For a detailed view of my contributions, please visit my [GitHub profile](https://github.com/itsRoy04?tab=repositories).
 
 ## 📅 Contribution Activity
 
