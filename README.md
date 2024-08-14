@@ -38,9 +38,6 @@ I specialize in blockchain development and have experience with various projects
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsRoy04&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-## 🔥 Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsRoy04&theme=algolia)](https://git.io/streak-stats)
 
 
 ## 📅 Contribution Activity
