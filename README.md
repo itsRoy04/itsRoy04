@@ -54,10 +54,4 @@ I specialize in blockchain development and have experience with various projects
 
 [Your skills badges here]
 
-## 🚀 My Contributions
 
-```text
-🐍 Total Commits: ${totalCommits}
-🌟 Total Stars Earned: ${totalStars}
-🔀 Total PRs: ${totalPRs}
-🏆 Contributed to: ${contributedRepos} repositories
